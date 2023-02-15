@@ -1,5 +1,4 @@
-# the_red_room
-Prismatic Scenes (i): The Red-Room
+# <a href="https://prismatic-jane-eyre.github.io/the_shape/">Prismatic Scenes (i): The Red-Room</a>
 
 This prismatic animation, created by Paola Gaudio, presents a passage from near the end of Chapter 25: Jane’s narration to Mr. Rochester, on the eve of their planned wedding, of a strange and threatening incursion into her bedroom the night before, by a figure whom she does not yet know to be his current wife, Bertha. Brontë’s English is shown together with translations into Spanish by Juan G. de Luaces (1943), María Fernanda Pereda (1947), Jesús Sánchez Diaz (1974) and Toni Hill (2009), selected and back-translated by Andrés Claro; into Estonian by Elvi Kippasto (1959), selected and back-translated by Madli Kütt; into Slovenian by France Borko and Ivan Dolenc (1955) and Božena Legiša-Velikonja (1970), selected and back-translated by Jernej Habjan; into Arabic by Munir Baalbaki (1985), selected and back-translated by Yousif M. Qasmiyeh; into Polish by Emilia Dobrzańska (1880), and Teresa Świderska (1930) selected and back-translated by Kasia Szymanska; and into Greek by Polly Moschopoulou (1991) and Maria Exarchou (2011), selected and back-translated by Eleni Philippou. 
 
